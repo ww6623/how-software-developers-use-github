@@ -1,5 +1,5 @@
 function createThree() {
-  return 2
+  return 3
 }
 
 module.exports = { createThree };
