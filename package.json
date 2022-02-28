@@ -1,0 +1,23 @@
+{
+  "name": "github-in-software-developer-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/main.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomHerman11/github-in-software-developer-job.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomHerman11/github-in-software-developer-job/issues"
+  },
+  "homepage": "https://github.com/TomHerman11/github-in-software-developer-job#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
