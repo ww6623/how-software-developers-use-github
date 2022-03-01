@@ -1,1 +1,1 @@
-# github-in-software-developer-job
+# how-software-developers-use-github
