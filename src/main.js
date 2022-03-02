@@ -6,4 +6,4 @@ function createFour() {
   return 4
 }
 
-module.exports = { createThree };
+module.exports = { createThree, createFour };
